@@ -57,3 +57,7 @@ A：会。同时装其他改音频路由的模块（音量管理、音效增强�
 - 模块修改系统音频路由，属于侵入性操作，请自行评估；出现异常先关模块再排查。
 - 不收集、不上传任何数据；日志只写在本机 `Download/AegisCore/`。
 - 更新说明见各 Release 正文，或模块内「检查更新」。
+
+## 源码 / Source
+
+源码公开在 [asdling246085-sudo/AegisCore](https://github.com/asdling246085-sudo/AegisCore)（MIT 许可）。本仓库只放发布用摘要与 APK，不含源码。
